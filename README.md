@@ -19,10 +19,11 @@ A simple Android Expense Tracker application developed with Java in Android Stud
 - Material Components
 
 ## Screenshots
+### Home Screen
+![Login](screenshots/Home.png)
 
-(Login Screenshot)
-
-(Home Screenshot)
+### Add Transaction
+![Home](screenshots/Transaction.png)
 
 ## Author
 Ceylin KALE
